@@ -1,12 +1,13 @@
 Daniele Barbosa
-Cargo Atual: Software Engineer Intern
-Localização: Recife, Pernambuco, Brasil
-Contato:
+#Cargo Atual: Software Engineer Intern
+#Localização: Recife, Pernambuco, Brasil
 
+#Contato:
 Telefone: (81) 99686-4066
 Email: danielebarbosaa56@gmail.com
 LinkedIn: linkedin.com/in/daniele-barbosa-1b2357110
-Resumo Profissional
+
+#Resumo Profissional
 Sou graduada em Engenharia Civil e atualmente estou cursando o quinto período de Análise e Desenvolvimento de Sistemas. Tenho experiência em desenvolvimento de software, 
 com foco em linguagens como Java, HTML, CSS, C# e React. Possuo habilidades em gerenciamento de banco de dados e automação de testes, além de estar familiarizada com tecnologias
 como Spring Boot e JPA. Minha formação em engenharia me proporciona uma visão analítica e estruturada para resolução de problemas, enquanto minha paixão por tecnologia me motiva 
